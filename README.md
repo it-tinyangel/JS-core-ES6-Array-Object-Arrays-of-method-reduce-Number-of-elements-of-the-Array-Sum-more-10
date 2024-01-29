@@ -3,7 +3,7 @@
 ### ECMAScript 6 (ES6+). The JavaScript Array Object. The Arrays of methods. The reduce() Array's Method. Destructuring assignment
 ***
 
-### The Number of elements of the Array that must be added so that their the Sum is more than 10
+### Finding the Number of the Array elements must be added that so their sum is more than 10
 
 **Task description:**
 
